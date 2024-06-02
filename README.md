@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, How you Doin' </h1>
+<h1 align="center">Hey 👋, How you Doin' </h1>
 <h3 align="center">A passionate programmer from Bangladesh</h3>
 
 - 🌱 I’m currently learning **Laravel**
