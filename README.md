@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, How you Doin'? </h1>
 <h3 align="center">A passionate programmer from Bangladesh</h3>
 
-- 🌱 I’m currently learning **Java SpringBoot**
+- 🌱 I’m currently learning **MERN**
 
 - 📫 How to reach me **tasminahmedoni909@gmail.com**
 
