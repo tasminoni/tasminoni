@@ -1,13 +1,24 @@
 <h1 align="center">Hey 👋, How you Doin'? </h1>
 <h3 align="center">A passionate programmer from Bangladesh</h3>
 
-- 🌱 I’m currently learning **MERN**
+---
 
-- 📫 How to reach me **tasminahmedoni909@gmail.com**
+## 🌟 About Me  
 
-- I am an individual with a keen enthusiasm for continuous learning and growth, consistently embracing new challenges. My approach to tasks is marked by dedication and determination, and I find joy in utilizing my skills to create positive impacts. With a goal to contribute effectively to organizational growth, I am driven by both determination and dedication, always prepared to expand my skill set and take on new challenges. Actively seeking opportunities, I aspire to embark on a fulfilling career journey within a challenging yet supportive work environment. My commitment to personal and professional development fuels my readiness to contribute to a dynamic team.
-## ⚡ Tech Stack
-<div align="center">
+🌱 **Currently Learning:** MERN Stack (MongoDB • Express.js • React • Node.js)  
+📫 **Reach Me At:** [tasminahmedoni909@gmail.com](mailto:tasminahmedoni909@gmail.com)  
+
+---
+
+✨ I am an **individual passionate about continuous learning and growth**, always excited to embrace new challenges.  
+💡 My approach to work is fueled by **dedication, determination, and creativity**, allowing me to create meaningful solutions that leave a positive impact.  
+
+🚀 With a vision to contribute effectively to **organizational success**, I strive to expand my skill set and adapt to evolving technologies.  
+🎯 Actively seeking opportunities, I aspire to embark on a fulfilling career journey in a **challenging yet supportive work environment**.  
+
+🌍 My **commitment to personal and professional development** drives me to stay curious, keep learning, and contribute as a **dynamic team player**.  
+
+---
 
 **Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
