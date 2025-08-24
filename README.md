@@ -10,24 +10,18 @@
 
 ---
 
-✨ I am an **individual passionate about continuous learning and growth**, always excited to embrace new challenges.  
-💡 My approach to work is fueled by **dedication, determination, and creativity**, allowing me to create meaningful solutions that leave a positive impact.  
-
-🚀 With a vision to contribute effectively to **organizational success**, I strive to expand my skill set and adapt to evolving technologies.  
-🎯 Actively seeking opportunities, I aspire to embark on a fulfilling career journey in a **challenging yet supportive work environment**.  
-
-🌍 My **commitment to personal and professional development** drives me to stay curious, keep learning, and contribute as a **dynamic team player**.  
+I am an individual with a keen enthusiasm for continuous learning and growth, consistently embracing new challenges. My approach to tasks is marked by dedication and determination, and I find joy in utilizing my skills to create positive impacts. With a goal to contribute effectively to organizational growth, I am driven by both determination and dedication, always prepared to expand my skill set and take on new challenges. Actively seeking opportunities, I aspire to embark on a fulfilling career journey within a challenging yet supportive work environment. My commitment to personal and professional development fuels my readiness to contribute to a dynamic team.
 
 ---
 
-**Languages**  
+## Languages  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black) 
 
 
-**Frameworks & Tools**  
+## Frameworks & Tools  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
@@ -38,7 +32,7 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)  
 
-**AI & Data**  
+## AI & Data 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) 
 ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white) 
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) 
