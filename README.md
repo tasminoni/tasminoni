@@ -7,6 +7,19 @@
 
 - I am an individual with a keen enthusiasm for continuous learning and growth, consistently embracing new challenges. My approach to tasks is marked by dedication and determination, and I find joy in utilizing my skills to create positive impacts. With a goal to contribute effectively to organizational growth, I am driven by both determination and dedication, always prepared to expand my skill set and take on new challenges. Actively seeking opportunities, I aspire to embark on a fulfilling career journey within a challenging yet supportive work environment. My commitment to personal and professional development fuels my readiness to contribute to a dynamic team.
 
+- ### ⚡ Tech Stack  
+
+💻 **Languages & Frameworks**  
+`Python` • `C++` • `Java` • `JavaScript` • `React` • `Node.js` • `Django` • `Flask`  
+
+🛠️ **Tools & Platforms**  
+`Linux` • `Docker` • `Git` • `AWS` • `Postman` • `VS Code` • `Jupyter`  
+
+📊 **Data & AI**  
+`Pandas` • `NumPy` • `Scikit-learn` • `TensorFlow` • `PyTorch` • `Keras`  
+
+---
+
 - ⚡ Fun fact **I think I'm funny**
 
 <h3 align="left">Connect with me:</h3>
