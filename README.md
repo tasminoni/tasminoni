@@ -43,6 +43,7 @@ I am an individual with a keen enthusiasm for continuous learning and growth, co
 ---
 
 - ⚡ Fun fact **I think I'm funny**
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
