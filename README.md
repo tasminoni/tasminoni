@@ -5,7 +5,7 @@
 
 ## 🌟 About Me  
 
-🌱 **Currently Learning:** MERN Stack (MongoDB • Express.js • React • Node.js)  
+🌱 **Currently Learning:** (MongoDB • Nest.js • Angular • Node.js)  
 📫 **Reach Me At:** [tasminahmedoni909@gmail.com](mailto:tasminahmedoni909@gmail.com)  
 
 ---
