@@ -52,6 +52,9 @@ I am an individual with a keen enthusiasm for continuous learning and growth, co
 <a href="https://instagram.com/__o_oni__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__o_oni__" height="30" width="40" /></a>
 </p>
 
-
-
-
+---
+## 🧠 Some Live Projects 
+- **Safelibuy** 🔗‍️ http://safelibuy.com
+- **Technique Publication** 🔗‍️ https://www.tpl.com.bd
+- **Radiogear BD** 🔗‍️ http://radiogearbd.com
+- **Lutpat** 🔗‍️ https://www.lutpat.store
