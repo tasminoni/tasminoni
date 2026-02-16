@@ -54,9 +54,11 @@ I am an individual with a keen enthusiasm for continuous learning and growth, co
 
 ---
 ## 🧠 Some Live Projects 
+- **Boiporibar** 🔗‍️ https://www.boiporibar.com
+- **Carmonkeybd** 🔗‍️ https://www.carmonkeybd.com
+- **Trustpoint pharma** 🔗‍️ https://www.trustpointpharma.com
 - **Safelibuy** 🔗‍️ http://safelibuy.com
 - **Technique Publication** 🔗‍️ https://www.tpl.com.bd
 - **Radiogear BD** 🔗‍️ http://radiogearbd.com
 - **Lutpat** 🔗‍️ https://www.lutpat.store
-- **Boiporibar** 🔗‍️ https://www.boiporibar.com
 - **Clothigo** 🔗‍️ https://www.clothigo.com
