@@ -1,91 +1,61 @@
 <div align="center">
 
-<!-- Banner Animation -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3776AB,100:00D4FF&height=220&section=header&text=Tasmin%20Ahmed%20Oni&fontSize=50&animation=fadeIn&fontAlignY=35" width="100%" />
+# Hey 👋, I'm Tasmin Ahmed Oni
+### 🚀 Full Stack Developer | ML Enthusiast | System Architect
 
-<!-- Profile Picture with Glowing Border Effect -->
-<div style="margin-top: -100px;">
-  <img src="https://github.com/tasmin-ahmed-oni-909.png" width="160" style="border-radius: 50%; border: 4px solid #fff; box-shadow: 0 0 20px #3776AB;" />
-</div>
+<img src="https://github.com/tasmin-ahmed-oni-909.png" width="180" style="border-radius: 50%; border: 3px solid #3776AB;" />
 
-### 🚀 Full Stack Engineer & System Architect
-**Building Scalable Infrastructure & Modern Web Solutions**
-
-<!-- Dynamic Typing Effect Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3776AB&center=true&vCenter=true&width=500&lines=Nest.js+%2B+Angular+Expert;MongoDB+%2B+PostgreSQL;VPS+%26+Server+Setup+Pro;Machine+Learning+Enthusiast" alt="Typing SVG" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tasmin-ahmed-oni-968a44255)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](#)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tasminahmedoni909@gmail.com)
 
 ---
 
-<!-- Connect Icons with Hover Animation Concept -->
-<p align="center">
-<a href="https://linkedin.com/in/tasmin-ahmed-oni-968a44255"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:tasminahmedoni909@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://fb.com/tasminoni.00"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-</p>
+### 💫 About Me
+I am a passionate programmer from **Bangladesh** 🇧🇩 dedicated to building scalable web applications and exploring the depths of **Machine Learning**. With a background in **IT Support & Systems**, I bridge the gap between robust infrastructure and modern software engineering.
+
+**🌱 Currently mastering:**  
+`Nest.js` • `Angular` • `MongoDB` • `Advanced DevOps`
 
 </div>
 
 ---
 
-### ⚡ Professional Arsenal
+### 🛠️ Technical Stack
 
-<table align="center" style="border: none;">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>💻 Backend & Cloud</h4>
-      <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-      <br>
-      <img src="https://img.shields.io/badge/Ubuntu_VPS-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-    </td>
-    <td width="50%" valign="top">
-      <h4>🎨 Frontend & UI</h4>
-      <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-      <br>
-      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-    </td>
-  </tr>
-</table>
+| Category | Skills |
+| :--- | :--- |
+| **Frontend** | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-F7E017?style=flat-square&logo=javascript&logoColor=black) |
+| **Backend** | ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) |
+| **Database** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| **DevOps & Infrastructure** | ![VPS Setup](https://img.shields.io/badge/VPS_Configuration-FF9900?style=flat-square&logo=amazonecs&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+| **AI & Data Science** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) |
 
 ---
 
-### 📈 Activity Metrics
+### 🌐 Featured Projects
+Below are some of the live platforms I've worked on:
+
+- 🛒 **[Boiporibar](https://www.boiporibar.com)** - A comprehensive online bookstore.
+- 🚗 **[Carmonkeybd](https://www.carmonkeybd.com)** - Automotive solutions platform.
+- 💊 **[Trustpoint Pharma](https://www.trustpointpharma.com)** - Pharmaceutical inventory & sales.
+- 📚 **[Technique Publication](https://www.tpl.com.bd)** - Educational resource portal.
+- 🎧 **[Radiogear BD](http://radiogearbd.com)** - Specialized hardware & radio equipment.
+- 👕 **[Clothigo](https://www.clothigo.com)** - Modern E-commerce for fashion.
+
+---
+
+### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tasmin-ahmed-oni-909&show_icons=true&theme=algolia&count_private=true&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tasmin-ahmed-oni-909&layout=compact&theme=algolia&hide_border=true" height="170" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tasmin-ahmed-oni-909&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tasmin-ahmed-oni-909&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
+
+---
+
+### ⚡ Fun Fact
+> I think I'm funny (my code usually agrees, it laughs with 404s).
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tasmin-ahmed-oni-909&theme=algolia&hide_border=true" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%"/>
 </div>
-
----
-
-### 🧪 Ongoing Experiments & Projects
-*   **Boiporibar** - [Live](https://www.boiporibar.com) | *Scaling with NestJS Architecture*
-*   **Trustpoint Pharma** - [Live](https://www.trustpointpharma.com) | *Secure Enterprise Solution*
-*   **Server Automation** - *Custom VPS Deployment scripts with Nginx Reverse Proxy*
-
----
-
-### 🐚 Git Graph Animation
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tasmin-ahmed-oni-909&theme=algolia" width="100%" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" />
-</div>
-
-<!-- Animated Visitor Counter -->
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=tasmin-ahmed-oni-909&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" />
-</p>
