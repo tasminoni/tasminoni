@@ -3,7 +3,7 @@
 <!-- Banner Animation -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3776AB,100:00D4FF&height=220&section=header&text=Tasmin%20Ahmed%20Oni&fontSize=50&animation=fadeIn&fontAlignY=35" width="100%" />
 
-### 🚀 Full Stack Engineer & System Architect
+### 🚀 Full Stack Engineer 
 **Building Scalable Infrastructure & Modern Web Solutions**
 
 <!-- Dynamic Typing Effect Animation -->
