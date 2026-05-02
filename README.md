@@ -3,16 +3,11 @@
 <!-- Banner Animation -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3776AB,100:00D4FF&height=220&section=header&text=Tasmin%20Ahmed%20Oni&fontSize=50&animation=fadeIn&fontAlignY=35" width="100%" />
 
-<!-- Profile Picture with Glowing Border Effect -->
-<div style="margin-top: -100px;">
-  <img src="https://github.com/tasmin-ahmed-oni-909.png" width="160" style="border-radius: 50%; border: 4px solid #fff; box-shadow: 0 0 20px #3776AB;" />
-</div>
-
 ### 🚀 Full Stack Engineer & System Architect
 **Building Scalable Infrastructure & Modern Web Solutions**
 
 <!-- Dynamic Typing Effect Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3776AB&center=true&vCenter=true&width=500&lines=Nest.js+%2B+Angular+Expert;MongoDB+%2B+PostgreSQL;VPS+%26+Server+Setup+Pro;Machine+Learning+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3776AB&center=true&vCenter=true&width=500&lines=Nest.js+%2B+Angular;MongoDB+%2B+MySQL;VPS+%26+Server+Setup;Machine+Learning+Enthusiast" alt="Typing SVG" />
 
 ---
 
@@ -54,35 +49,23 @@
 </table>
 
 ---
+### 🌐 Featured Projects
+Below are some of the live platforms I've worked on:
 
-### 📈 Activity Metrics
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tasmin-ahmed-oni-909&show_icons=true&theme=algolia&count_private=true&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tasmin-ahmed-oni-909&layout=compact&theme=algolia&hide_border=true" height="170" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tasmin-ahmed-oni-909&theme=algolia&hide_border=true" width="100%" />
-</div>
-
----
-
-### 🧪 Ongoing Experiments & Projects
-*   **Boiporibar** - [Live](https://www.boiporibar.com) | *Scaling with NestJS Architecture*
-*   **Trustpoint Pharma** - [Live](https://www.trustpointpharma.com) | *Secure Enterprise Solution*
-*   **Server Automation** - *Custom VPS Deployment scripts with Nginx Reverse Proxy*
+- 🛒 **[Boiporibar](https://www.boiporibar.com)** - A comprehensive online bookstore.
+- 🚗 **[Carmonkeybd](https://www.carmonkeybd.com)** - Automotive solutions platform.
+- 💊 **[Trustpoint Pharma](https://www.trustpointpharma.com)** - Pharmaceutical inventory & sales.
+- 📚 **[Technique Publication](https://www.tpl.com.bd)** - Educational resource portal.
+- 🎧 **[Radiogear BD](http://radiogearbd.com)** - Specialized hardware & radio equipment.
+- 👕 **[Clothigo](https://www.clothigo.com)** - Modern E-commerce for fashion.
 
 ---
 
-### 🐚 Git Graph Animation
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tasmin-ahmed-oni-909&theme=algolia" width="100%" />
-</div>
-
----
+### ⚡ Fun Fact
+> I think I'm funny (my code usually agrees, it laughs with 404s).
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%"/>
 </div>
 
 <!-- Animated Visitor Counter -->
